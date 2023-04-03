@@ -1,0 +1,30 @@
+.form{
+    background-color: lightgray;
+    gap: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 300px;
+    align-items: center;
+    margin-top: 10px;
+}
+.lay{
+    display: grid;
+    width: 100px;
+    background-color: pink;
+}
+input{
+    align-self: center;
+    margin-left: 100px;
+    
+}
+radio{
+    margin-left: 0;
+    gap: 0;
+}
+select{
+    margin-left: 100px;
+    
+}
+option{
+    margin-left: 100px;
+}
